@@ -12,7 +12,7 @@ This is a simple "Higher or Lower" game based on Instagram followers. You will b
 # Usage
 
 ```bash
-python higher_or_lower.py
+python higherOrLower.py
 ```
 
 # Rules
