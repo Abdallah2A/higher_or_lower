@@ -6,7 +6,7 @@ This is a simple "Higher or Lower" game based on Instagram followers. You will b
 
 1. Clone the repository to your local machine.
 2. Make sure you have Python installed.
-3. Run the 'higher_or_lower.py' file.
+3. Run the 'higherOrLower.py' file.
 4. Follow the prompts to make your choices and see how many you can guess correctly!
 
 # Usage
